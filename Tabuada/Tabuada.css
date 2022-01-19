@@ -1,0 +1,19 @@
+
+
+body{
+
+background-color: cornsilk;
+text-align: center;
+color: black;
+
+}
+
+section {
+    background: white;
+    border-radius: 100px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;    
+    box-shadow: 5px 5px 10px black;  
+
+}
